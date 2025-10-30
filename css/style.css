@@ -26,3 +26,8 @@ header a {
     color: inherit;
 
 }
+
+li a{
+
+    text-decoration-line: none;
+}
