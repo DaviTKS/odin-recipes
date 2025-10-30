@@ -1,0 +1,28 @@
+body {
+
+    background-color: antiquewhite;
+
+}
+
+img {
+
+    border-radius: 10px;
+    filter: drop-shadow(0 0 5px black);
+
+}
+
+h1 {
+
+    font-family: Verdana;
+
+}
+
+header a {
+
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    color: inherit;
+
+}
